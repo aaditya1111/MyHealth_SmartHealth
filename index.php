@@ -44,7 +44,6 @@ a.b{
 </style>
 <body>
 
-<!-- Navbar -->
 <nav>
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
